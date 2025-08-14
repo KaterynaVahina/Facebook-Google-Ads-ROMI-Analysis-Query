@@ -8,12 +8,12 @@ The goal was to practice:
 - Writing SQL queries that can be used in real-world analytics.
 
 ## What I Learned
-- ✅ Writing SQL with `JOIN` (Facebook: ad, campaign, adset)
-- ✅ Aggregating data: `SUM()` and `GROUP BY`
-- ✅ Calculating ROMI: `(SUM(value) / SUM(spend))`
-- ✅ Filtering: `HAVING SUM(spend) > 0`
-- ✅ Combining results: `UNION ALL`
-- ✅ Sorting: `ORDER BY` + `LIMIT 5`
+-  Writing SQL with `JOIN` (Facebook: ad, campaign, adset)
+-  Aggregating data: `SUM()` and `GROUP BY`
+-  Calculating ROMI: `(SUM(value) / SUM(spend))`
+-  Filtering: `HAVING SUM(spend) > 0`
+-  Combining results: `UNION ALL`
+-  Sorting: `ORDER BY` + `LIMIT 5`
 
 ## How the Query Works
 The query:
