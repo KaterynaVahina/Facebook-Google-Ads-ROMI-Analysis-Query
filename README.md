@@ -31,4 +31,4 @@ The query:
 
 ---
 
-*Created by Kateryna Vahina— Junior Data Analyst / LinkedIn: www.linkedin.com/in/kateryna-vahina*
+*Created by Kateryna Vahina— Junior Data Analyst / LinkedIn: www.linkedin.com/in/kateryna-vahina-a1575a282*
