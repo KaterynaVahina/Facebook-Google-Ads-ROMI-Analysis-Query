@@ -30,5 +30,4 @@ The query:
 3. Check which days had the best ad performance.
 
 ---
-
-*Created by Kateryna Vahina— Junior Data Analyst / LinkedIn: www.linkedin.com/in/kateryna-vahina-a1575a282*
+*Created by Kateryna Vahina— Junior Data Analyst / LinkedIn: www.linkedin.com/in/kateryna-vahina15*
